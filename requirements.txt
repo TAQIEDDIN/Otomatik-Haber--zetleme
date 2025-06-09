@@ -11,3 +11,4 @@ datasets
 requests
 keras==2.11
 torch==2.0.0  ← ✅ هذا هو المفتاح
+tensorflow==2.13.0

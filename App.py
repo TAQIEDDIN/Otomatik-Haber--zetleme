@@ -8,6 +8,7 @@ from transformers import pipeline
 import re
 import requests
 import os
+ozetleyici = pipeline("summarization", model="sshleifer/distilbart-cnn-12-6")
 
 
 #   cd InNews                      python -m streamlit run App.py
