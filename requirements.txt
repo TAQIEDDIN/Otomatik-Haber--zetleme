@@ -17,6 +17,6 @@ datasets
 requests
 lxml[html_clean]
 keras==2.11
-torch==2.1.2
+
 
 
