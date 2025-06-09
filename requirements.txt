@@ -4,9 +4,9 @@ nltk
 transformers==4.35.2
 datasets
 requests
-keras==2.11
 torch==2.0.0
 tensorflow==2.13.0
+keras==2.13.1
 pandas
 numpy
 protobuf==3.20.0
