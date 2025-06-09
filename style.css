@@ -1,0 +1,29 @@
+
+.stApp {
+    background: #000428; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #004e92, #000428); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #004e92, #000428); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color: white;
+}
+
+.title {
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    color: #FFD700;
+    text-shadow: 3px 3px 8px rgba(0, 0, 0, 0.5);
+    margin-top: 20px;
+}
+
+.publish-date {
+    color: #00FF00;
+    font-size: 16px;
+    font-weight: normal;
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
