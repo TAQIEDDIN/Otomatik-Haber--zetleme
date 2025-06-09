@@ -1,17 +1,13 @@
-pillow
-newspaper3k
-urllib3
 streamlit
+transformers==4.35.2
+torch
+newspaper3k
 beautifulsoup4
+nltk
+requests
+pillow
 protobuf==3.20.0
 jinja2>=3.0
-nltk
-transformers==4.35.2
-datasets
-requests
-keras==2.11
-torch==2.0.0  ← ✅ هذا هو المفتاح
-tensorflow==2.13.0
 pandas
 numpy
-
+urllib3
