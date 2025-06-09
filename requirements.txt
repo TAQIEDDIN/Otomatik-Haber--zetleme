@@ -9,7 +9,7 @@ tensorflow==2.13.0
 keras==2.13.1
 pandas
 numpy
-protobuf==3.20.0
+protobuf>=3.20.3,<4.21.0
 jinja2>=3.0
 beautifulsoup4
 urllib3
